@@ -4,19 +4,18 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 
 **Tuberculosis(TB) data:
 -----------------------
-700 TB data are collected from different publicly accessible dataset. 2800 TB data are collected from NIAID TB portal program dataset by signing an agreement.
--306 CXR images from BELARUS TB portal program dataset[2].
--394 CXR image from NLM [1]
--2800 CXR images are collected from NIAID TB portal program dataset[3]. 
+-30 CXR images from BELARUS TB portal program dataset[2].
+-14 CXR image from NLM [1]
+-56 CXR images are collected from NIAID TB portal program dataset[3]. 
 
 Note: Due to the data-sharing restriction, we have to direct the potential user to NIAID website where you can get data-sharing agreement signing 
 option and you can get DICOM images from there easily. 
 
 ***Normal images:
 ---------------------------------------- 
-3500 Normal data are collected from from two different dataset.
--406 CXR images are collected from NLM [1]
--3094 CXR images are collected from RSNA [4]
+100 Normal data are collected from from two different dataset.
+-40 CXR images are collected from NLM [1]
+-60 CXR images are collected from RSNA [4]
 
 
 ***Please cite the follwoing two articles if you are using this dataset:
